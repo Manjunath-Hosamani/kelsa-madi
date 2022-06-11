@@ -5,4 +5,6 @@ Summane kelsa madi
 
 ## Description
 
+## Detailed Design
+
 ## Conclusion
