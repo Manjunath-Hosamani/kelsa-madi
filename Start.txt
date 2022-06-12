@@ -6,3 +6,5 @@ Change done through second branch.
 
 Change done for simpe change branch
 Change done for rebase example.
+
+Change done before rebase conflict
