@@ -11,3 +11,4 @@ Change done before rebase conflict
 Change done after rebase conflict
 Some random stuff
 Again random stuff
+Some random stuff2
