@@ -13,6 +13,7 @@ Summane kelsa madi
 Change done in second branch
 Change done for simple branch
 Change done for real work
+Change done for rebase example
 
 ## Conclusion
 Be happy..!
