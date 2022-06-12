@@ -11,4 +11,8 @@ Change done before rebase conflict
 Change done after rebase conflict
 Some random stuff
 Again random stuff
+<<<<<<< Updated upstream
 Some random stuff2
+=======
+Jai hanuman!
+>>>>>>> Stashed changes
