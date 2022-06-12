@@ -8,3 +8,4 @@ Change done for simpe change branch
 Change done for rebase example.
 
 Change done before rebase conflict
+Change done after rebase conflict
